@@ -1,6 +1,0 @@
-sort1 uses: bubble sort
-How do you know?: the real time of the program through the sorted list was the fastest, the reversed and random list were pretty much the same time
-sort2 uses: merge sort
-How do you know?: the performance was almost the same on the three tests, this being lower than the other two sorts avg.
-sort3 uses: selection sort
-How do you know?: this sort performed similar results on the three tests. Those were pretty similar to the time on the bubble sort random and reversed cases.
